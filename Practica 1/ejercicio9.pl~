@@ -1,0 +1,8 @@
+hijo(juan,miguel).
+hijo(jose,miguel).
+hijo(miguel,roberto).
+hijo(julio,roberto).
+hijo(roberto,carlos).
+
+hijo(Per1,Per2).
+descendiente(X,Y):-X is
